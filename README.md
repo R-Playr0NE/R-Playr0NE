@@ -37,7 +37,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Playr0NE&theme=redical&area=true&radius=16" />
     </td>
     <td>
-      <img src="https://media1.tenor.com/m/5L9fhxzsUNsAAAAC/azur-lane-prinz-eugen.gif" />
+      <img src="https://media1.tenor.com/m/v9MQrTFxV9MAAAAC/azur-lane-prinz-eugen.gif" />
     </td>
   </tr>
 </table>
